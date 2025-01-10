@@ -66,8 +66,8 @@ This license automatically terminates upon any breach of its terms.
 ## 5. Support and Contact
 
 For Enterprise License inquiries:
-- Email: [info@yenpoint.com]
-- Website: [https://yenpoint.com]
+- Email: [info@yenpoint.jp]
+- Website: [https://yenpoint.jp]
 
 ## 6. Agreement Amendments
 
@@ -144,8 +144,8 @@ Yenpointは、本ライブラリの使用に起因して生じるいかなる損
 ## 5. サポート・お問い合わせ
 
 エンタープライズライセンスに関するお問い合わせ：
-- メール：[info@yenpoint.com]
-- Webサイト：[https://yenpoint.com]
+- メール：[info@yenpoint.jp]
+- Webサイト：[https://yenpoint.jp]
 
 ## 6. 規約の改定
 
